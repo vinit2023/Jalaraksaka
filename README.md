@@ -1,4 +1,4 @@
 # Jalaraksaka
 ## About
-The idea involves implementing an advanced port management solution that leverages cutting-edge technologies for real-time monitoring, predictive analytics, and comprehensive data analysis. 
+The main challenge of the Cochin port is the constant dredging activities required to maintain the berth and draft level at various port channels.
 
